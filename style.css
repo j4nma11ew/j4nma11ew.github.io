@@ -391,7 +391,7 @@ footer{width:100%;height:30px;background-color:#101010;border-color:#707070; }
 @media only screen and (max-width: 600px) {
     .navbar { height: 30px; } 
     .separate{
-        margin-top:50%;width:100%;}
+        margin-top:55%;width:100%;}
         .margin-up{display: none;}
         .user-name{
             font-size: 18px;
@@ -474,13 +474,13 @@ left:1%:   }
     .separate-3{width:100%;  }
     .activity{font-size: 12px;padding:3px;width: 100%;}
     .activity>span>i{padding: 0px;}
-    .col-sm-6>.card{width:100%;height:8.5rem;margin:10px 0 10px 0;}
+    .col-sm-6>.card{width:100%;height:9.5rem;margin:10px 0 10px 0;}
     .resume{padding:10px;width:100%;}
     footer{height:10px; }
     .title{
         text-align: right;
         font-size: 10px; 
-    margin-top:-40px;   } 
+    margin-top:-30px;   } 
     .title .fas{  font-size: 14px;    }
     strong{text-align: center;}
     .progress-completed li  {
