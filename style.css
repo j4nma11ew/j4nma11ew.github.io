@@ -24,8 +24,8 @@
         width: 60px;
     }  
     .side-nav>h6{margin-top:-20px;}
-     .edit{font-size:10px;}
-     .edit>span>i{font-size:10px;}
+     .edit{font-size:10px;font-weight:900;}
+     .edit>span>i{font-size:10px;font-weight:900;}
     .side-nav{
         position: absolute;
         top:3%;
@@ -491,4 +491,5 @@ left:1%:   }
         display: inline-block;
     }
     .col-md-6>.card-title>span{font-size:9px;}
+	.small-card>.col-md-3{display: inline;}
   }
