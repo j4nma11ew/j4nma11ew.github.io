@@ -412,7 +412,9 @@ left:1%:   }
 #v-line{display: none;}
 .side-nav{display: none;}
 .description,.interest{
-    font-size:7px; 
+    font-size:10px; 
+	margin:0;
+	padding:0;
   }
   .button {
     display: inline-block;
@@ -489,5 +491,4 @@ left:1%:   }
         display: inline-block;
     }
     .col-md-6>.card-title>span{font-size:9px;}
-	.logo{height:40px;width:40px;margin-top:-2px;}
   }
